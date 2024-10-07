@@ -1,6 +1,6 @@
 {
   "name": "ghast.js",
-  "version": "0.6.8",
+  "version": "0.6.9",
   "series": "FLAY",
   "mkv": {
     "before": ":european_castle:",
@@ -43,11 +43,11 @@
     "peggy"
   ],
   "devDependencies": {
-    "@0e9b061f/mkv": "^0.1.0",
+    "@0e9b061f/mkv": "^0.2.0",
     "docdash": "^2.0.2",
     "http-server": "^14.1.1",
-    "jasmine": "^5.1.0",
+    "jasmine": "^5.3.1",
     "jsdoc": "^4.0.3",
-    "peggy": "^4.0.2"
+    "peggy": "^4.1.1"
   }
 }
